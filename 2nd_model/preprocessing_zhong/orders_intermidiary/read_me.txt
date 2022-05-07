@@ -1,0 +1,2 @@
+there is one column missing in orders_jan_labeled.csv, which is "intervals_y", which denotes the interval between the first and last purchase, there are problems for me to generate it for the january data, so
+may be just discard the "intervals_y" column when training the model, or maybe you can training the model just on data before december
